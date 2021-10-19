@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
 namespace Day_13_Generics
 {
     class MaximumNumberCheck
@@ -69,5 +67,8 @@ namespace Day_13_Generics
 
             throw new Exception("firstNumber,secondNumber and thirdNumber are same");
         }
+
+
+
     }
 }
